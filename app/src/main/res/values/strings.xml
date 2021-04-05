@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aturuang</string>
+
+    <string-array name="total">
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+        <item>Untung</item>
+    </string-array>
+
+    <string-array name="jumlah">
+        <item>Rp.121212</item>
+        <item>Rp.121212</item>
+        <item>Rp.121212</item>
+    </string-array>
+</resources>
